@@ -43,3 +43,13 @@ Currently working on real-world projects like **ShopSphere (E-commerce API)** an
 ---
 
 ⭐ **“Clean Code. Real Projects. Continuous Learning.”**
+
+
+---
+
+### 📊 GitHub Stats
+![Mehedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahedy766584&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahedy766584&layout=compact&theme=tokyonight)
+
+
+---
