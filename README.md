@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="[https://your-image-link.com/banner.png](https://res.cloudinary.com/dvvq8a8nh/image/upload/v1759764540/mohammad_mehed_tqw0px.png)" alt="Mohammad Mehedi Hasan | Backend Developer" width="100%" />
+</p>
+
 # 👋 Hi, I'm Mohammad Mehedi Hasan  
 ### 🚀 Backend Developer | Node.js | Express | TypeScript | MongoDB
 
