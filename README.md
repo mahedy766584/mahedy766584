@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohammad Mehedi Hasan  
+### 🚀 Backend Developer | Node.js | Express | TypeScript | MongoDB
 
-<!--
-**mahedy766584/mahedy766584** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Self-taught backend developer passionate about building **secure, scalable, and production-ready APIs**.  
+Currently working on real-world projects like **ShopSphere (E-commerce API)** and **ProBlog (Blogging Platform API)**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+### 🛠️ Projects
+
+#### 🛒 [ShopSphere API](https://github.com/mahedy766584/shop_sphere_api)
+> Multi-vendor e-commerce backend system with authentication, seller management, audit logs, and Docker setup.
+
+#### ✍️ [ProBlog API](https://github.com/mahedy766584/ProBlogAPI-Backend-Only-)
+> Blog management API with role-based access, post approval system, comments, analytics, and Zod validation.
+
+---
+
+### 📈 What I’m Currently Working On
+- Learning **advanced backend patterns** (caching, microservices, socket.io)  
+- Exploring **React + TailwindCSS** for front-end integration  
+- Preparing for **full-stack developer roles**  
+
+---
+
+### 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-mehedi-hasan-364b2432b/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahedy766584)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehediweb2023@gmail.com)
+
+---
+
+⭐ **“Clean Code. Real Projects. Continuous Learning.”**
